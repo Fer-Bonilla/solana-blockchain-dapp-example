@@ -1,2 +1,2 @@
-# solana-blockchain-dapp-example
+# Solana blockchain dapp example
 Exmple of Dapp implementation using SOLANA blockchain
